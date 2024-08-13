@@ -37,43 +37,9 @@
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/)
 
-### Getting Started
+ **Explore VMEET**
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/adrianhajdin/zoom-clone.git
-   cd zoom-clone
-   ```
-
-2. **Install Dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Set Up Environment Variables**
-
-   Create a `.env` file in the root directory and add your credentials:
-
-   ```env
-   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-   CLERK_SECRET_KEY=
-   NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-   NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-   NEXT_PUBLIC_STREAM_API_KEY=
-   STREAM_SECRET_KEY=
-   ```
-
-4. **Run the Project**
-
-   ```bash
-   npm run dev
-   ```
-
-5. **Explore Your Project**
-
-   Open [http://localhost:3000](http://localhost:3000) in your browser to view and interact with your application.
+   Open https://eureka-club-hackathon.vercel.app/sign-in?redirect_url=https%3A%2F%2Feureka-club-hackathon.vercel.app%2F in your browser to view and interact with your application.
 
 ---
 
